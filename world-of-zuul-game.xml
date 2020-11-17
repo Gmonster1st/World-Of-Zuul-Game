@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="world-of-zuul-game" default="all">
 
-
-    <property file="world-of-zuul-game.properties"/>
     <!-- Uncomment the following property if no tests compilation is needed -->
     <!--
     <property name="skip.tests" value="true"/>
